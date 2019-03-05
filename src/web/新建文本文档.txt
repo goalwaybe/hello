@@ -18,3 +18,7 @@ GitHub Hook
 内容类型： application/json
 秘密：你的Packagist API令牌
 哪些事件？只是push活动就足够了。
+
+
+
+测试webhook函数是否自动更新,
