@@ -24,3 +24,5 @@ GitHub Hook
 测试webhook函数是否自动更新,
 
 测试webhook函数第二次是否自动更新,
+
+测试webhook函数第三次是否自动更新,git时候添加tag
